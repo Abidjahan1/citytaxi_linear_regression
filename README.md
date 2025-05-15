@@ -6,7 +6,6 @@ This project trains regression models to predict taxi fares based on trip featur
 
 ---
 📊 Dataset Overview
-The dataset is sourced from Google’s MLCC repository:
 
 📂 chicago_taxi_train.csv
 
