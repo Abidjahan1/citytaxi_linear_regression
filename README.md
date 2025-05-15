@@ -5,6 +5,42 @@
 This project trains regression models to predict taxi fares based on trip features such as distance (`TRIP_MILES`) and duration (`TRIP_MINUTES`). It uses TensorFlow to build and evaluate models, and includes tools to make and display predictions.
 
 ---
+📊 Dataset Overview
+The dataset is sourced from Google’s MLCC repository:
+
+📂 chicago_taxi_train.csv
+
+Key Features used:
+
+TRIP_MILES
+
+TRIP_SECONDS
+
+FARE
+
+COMPANY
+
+PAYMENT_TYPE
+
+TIP_RATE
+
+🚀 Features & Functionality
+✅ Load and clean real-world taxi data
+
+✅ Analyze dataset statistics (e.g., max fare, average distance, missing data)
+
+✅ Explore correlations using a pairplot and correlation matrix
+
+✅ Build a simple linear regression model with TensorFlow/Keras
+
+✅ Visualize:
+
+Model prediction surface (2D/3D)
+
+Loss curve (RMSE vs Epochs)
+
+✅ Print model weights, bias, and training progress
+
 
 ## 📊 Model Training
 
