@@ -24,6 +24,7 @@ PAYMENT_TYPE
 TIP_RATE
 
 🚀 Features & Functionality
+
 ✅ Load and clean real-world taxi data
 
 ✅ Analyze dataset statistics (e.g., max fare, average distance, missing data)
